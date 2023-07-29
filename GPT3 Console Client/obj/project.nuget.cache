@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iXdg7hWcICPeVlwmUNCaagKrXPOI1xoJ8JJFDedlQI4hmLnTFA/aqYSvG+hkC9Fbz6azxUPY6E/ULobQGPCFhQ==",
+  "success": true,
+  "projectFilePath": "/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/GPT3 Console Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/ramon/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/ramon/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/ramon/.nuget/packages/textcopy/6.2.1/textcopy.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

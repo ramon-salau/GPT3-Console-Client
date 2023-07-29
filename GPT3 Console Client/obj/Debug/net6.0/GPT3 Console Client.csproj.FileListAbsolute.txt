@@ -1,0 +1,19 @@
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/bin/Debug/net6.0/GPT3 Console Client
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/bin/Debug/net6.0/GPT3 Console Client.deps.json
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/bin/Debug/net6.0/GPT3 Console Client.runtimeconfig.json
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/bin/Debug/net6.0/GPT3 Console Client.dll
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/bin/Debug/net6.0/GPT3 Console Client.pdb
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/obj/Debug/net6.0/GPT3 Console Client.csproj.AssemblyReference.cache
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/obj/Debug/net6.0/GPT3 Console Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/obj/Debug/net6.0/GPT3 Console Client.AssemblyInfoInputs.cache
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/obj/Debug/net6.0/GPT3 Console Client.AssemblyInfo.cs
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/obj/Debug/net6.0/GPT3 Console Client.csproj.CoreCompileInputs.cache
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/obj/Debug/net6.0/GPT3 Console Client.dll
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/obj/Debug/net6.0/refint/GPT3 Console Client.dll
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/obj/Debug/net6.0/GPT3 Console Client.pdb
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/obj/Debug/net6.0/GPT3 Console Client.genruntimeconfig.cache
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/obj/Debug/net6.0/ref/GPT3 Console Client.dll
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/bin/Debug/net6.0/TextCopy.dll
+/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/obj/Debug/net6.0/GPT3 Console Client.csproj.CopyComplete

@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/GPT3 Console Client.csproj": {}
+  },
+  "projects": {
+    "/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/GPT3 Console Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/GPT3 Console Client.csproj",
+        "projectName": "GPT3 Console Client",
+        "projectPath": "/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/GPT3 Console Client.csproj",
+        "packagesPath": "/Users/ramon/.nuget/packages/",
+        "outputPath": "/Users/ramon/Projects/GPT3 Console Client/GPT3 Console Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ramon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "TextCopy": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
